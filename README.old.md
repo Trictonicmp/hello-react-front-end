@@ -1,56 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello react front end
 
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
+> This is a simple react app that consumes data from an API.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- NPM
 
 ### Setup
-
+Open your terminal and:
+- Clone this repo
+  - run ```cd /path/where/you/want/to clone/```
+  - run ```git clone https://github.com/Trictonicmp/hello-react-front-end```
+  - run ```cd hello-react-front-end```
+  
 ### Install
+- Install dependencies
+  - run ```npm install```
+- Run the app
+  - npm start
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+### Run linters
+- run ```npx eslint .```
+- run ```npx stylelint "**/*.{css,scss}"```
 
 
 ## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Amaury Permer**
 
-👤 **Author2**
+- GitHub: [@Trictonicmp](https://github.com/Trictonicmp)
+- LinkedIn: [Amaury Permer](https://linkedin.com/in/amaury-permer)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
 
 ## 🤝 Contributing
 
@@ -71,5 +55,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
