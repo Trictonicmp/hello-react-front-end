@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello react front end
 
@@ -24,6 +25,8 @@ Open your terminal and:
 - run ```npx eslint .```
 - run ```npx stylelint "**/*.{css,scss}"```
 
+
+## Authors
 
 
 👤 **Amaury Permer**
